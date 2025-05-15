@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome
+
+### I know about pharmacology, pharmaceutical technology and also about pharmaceutical legislation (EU [+MRA States] and USA).
+### Also, I have a faible for Data Analysis, meaningful KPI-architecture, as well as digital transformation within pharmaceutical companies.
+
+
 
 <!--
 **JLX7RZ/JLX7RZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
