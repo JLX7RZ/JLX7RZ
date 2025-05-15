@@ -1,7 +1,8 @@
 ## Welcome
 
-### I know about pharmacology, pharmaceutical technology and also about pharmaceutical legislation (EU [+MRA States] and USA).
+### I know about pharmacology, pharmaceutical technology and about pharmaceutical legislation (EU [+MRA States] and USA).
 ### Also, I have a faible for Data Analysis, meaningful KPI-architecture, as well as digital transformation within pharmaceutical companies.
+
 
 
 
